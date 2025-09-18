@@ -1,5 +1,5 @@
 <h1 align="center">Muhammad Anas Aslam</h1>
-<h3 align="center">Software Engineer | Java | Python | Spring Boot | GenAI Enthusiast | FAST NUCES '26</h3>
+<h3 align="center">Software Engineer | Java | Python | Spring Boot | GenAI | FAST NUCES '26</h3>
 
 ---
 
