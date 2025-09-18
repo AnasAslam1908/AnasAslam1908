@@ -3,9 +3,11 @@
 
 ---
 
-<p align="center">
- Hi there! I’m Anas 
-I’m a final-year Software Engineering student at FAST NUCES, Karachi, with a strong passion for coding and problem-solving. I enjoy exploring emerging technologies and have a particular interest in the fast-growing world of Artificial Intelligence.
+<p >
+Hi there! I’m Anas 👋<br>  
+I’m a final-year Software Engineering student at FAST NUCES, Karachi, with a strong passion for coding and problem-solving.  
+I enjoy exploring emerging technologies and have a particular interest in the fast-growing world of Artificial Intelligence.
+
 </p>
 
 ---
