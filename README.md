@@ -22,6 +22,13 @@ I enjoy exploring emerging technologies and have a particular interest in the fa
 
 # 📌 Featured Projects  
 
+### 🔹 [ContractPulse – Freelancer Contract Management Platform](https://github.com/AnasAslam1908/Contract-Pulse)
+
+- Built a full-stack contract management platform using **Spring Boot**, **React**, and **PostgreSQL**, enabling freelancers to track contracts, milestones, and invoices with real-time dashboard analytics
+- Integrated **Spring AI with Google Gemini** to automate contract summarization, payment risk assessment, and follow-up email generation, reducing manual client communication time
+- Implemented secure **JWT authentication** with role-based access control and designed a public client portal using UUID tokens for contract viewing without account creation
+- Developed automated PDF invoice generation using **iText7** and managed database migrations with **Flyway**, ensuring data consistency across environments
+
 ### 🔹 [Chat with Databases (SQL & NoSQL)](https://github.com/AnasAslam1908/Chat-With-Databases)  
 AI-powered chatbot using **LangChain, Streamlit, and Google Gemini** to query both MySQL & MongoDB in natural language.  
 - Built dual pipelines: **SQL Chain** (schema-aware queries) & **Mongo Chain** (dynamic schema inference)  
