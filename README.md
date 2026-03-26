@@ -29,6 +29,8 @@ I enjoy exploring emerging technologies and have a particular interest in the fa
 - Implemented secure **JWT authentication** with role-based access control and designed a public client portal using UUID tokens for contract viewing without account creation
 - Developed automated PDF invoice generation using **iText7** and managed database migrations with **Flyway**, ensuring data consistency across environments
 
+---
+
 ### 🔹 [Chat with Databases (SQL & NoSQL)](https://github.com/AnasAslam1908/Chat-With-Databases)  
 AI-powered chatbot using **LangChain, Streamlit, and Google Gemini** to query both MySQL & MongoDB in natural language.  
 - Built dual pipelines: **SQL Chain** (schema-aware queries) & **Mongo Chain** (dynamic schema inference)  
@@ -42,14 +44,6 @@ Full-stack carpooling platform with secure authentication and role-based dashboa
 - Backend: **Spring Boot + MySQL** APIs for ride booking, cancellation, and feedback  
 - Frontend: **React + Tailwind CSS** for a responsive user experience  
 - Designed to simulate real-world ride-sharing workflows with multiple user roles  
-
----
-
-### 🔹 [EventHub – Event Management System](https://github.com/AnasAslam1908/EventHub-JSP-Servlets-)  
-Web-based platform for event registration and management with **JSP, Servlets, and MySQL**.  
-- Features include event search, filtering, and capacity-based registration  
-- Role-based access: admins can manage events while users register and give feedback  
-- Focused on demonstrating dynamic user interactions and core Java web fundamentals  
 
 ---
 
