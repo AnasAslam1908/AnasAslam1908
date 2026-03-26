@@ -20,9 +20,9 @@ I enjoy exploring emerging technologies and have a particular interest in the fa
 
 ---
 
-# 📌 Featured Projects  
+#  Featured Projects  
 
-### 🔹 [ContractPulse – Freelancer Contract Management Platform](https://github.com/AnasAslam1908/Contract-Pulse)
+###  [ContractPulse – Freelancer Contract Management Platform](https://github.com/AnasAslam1908/Contract-Pulse)
 
 - Built a full-stack contract management platform using **Spring Boot**, **React**, and **PostgreSQL**, enabling freelancers to track contracts, milestones, and invoices with real-time dashboard analytics
 - Integrated **Spring AI with Google Gemini** to automate contract summarization, payment risk assessment, and follow-up email generation, reducing manual client communication time
@@ -31,7 +31,7 @@ I enjoy exploring emerging technologies and have a particular interest in the fa
 
 ---
 
-### 🔹 [Chat with Databases (SQL & NoSQL)](https://github.com/AnasAslam1908/Chat-With-Databases)  
+###  [Chat with Databases (SQL & NoSQL)](https://github.com/AnasAslam1908/Chat-With-Databases)  
 AI-powered chatbot using **LangChain, Streamlit, and Google Gemini** to query both MySQL & MongoDB in natural language.  
 - Built dual pipelines: **SQL Chain** (schema-aware queries) & **Mongo Chain** (dynamic schema inference)  
 - Added query explanations, error handling, and visualizations with **Pandas DataFrames**  
@@ -39,7 +39,7 @@ AI-powered chatbot using **LangChain, Streamlit, and Google Gemini** to query bo
 
 ---
 
-### 🔹 [RideShare – Carpooling Platform](https://github.com/AnasAslam1908/RideShare-CarPool-)  
+###  [RideShare – Carpooling Platform](https://github.com/AnasAslam1908/RideShare-CarPool-)  
 Full-stack carpooling platform with secure authentication and role-based dashboards.  
 - Backend: **Spring Boot + MySQL** APIs for ride booking, cancellation, and feedback  
 - Frontend: **React + Tailwind CSS** for a responsive user experience  
@@ -47,7 +47,7 @@ Full-stack carpooling platform with secure authentication and role-based dashboa
 
 ---
 
-### 🔹 [GUI-based Music Player](https://github.com/AnasAslam1908/JAVA-Swing-Music-Player)  
+###  [GUI-based Music Player](https://github.com/AnasAslam1908/JAVA-Swing-Music-Player)  
 Desktop music player built with **Java Swing**, showcasing object-oriented design and data structures.  
 - Supports playlist management, add/remove songs, shuffle, and navigation  
 - Implemented with **doubly linked lists & queues** for efficient playback control  
